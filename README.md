@@ -1,1 +1,1 @@
-https://github.com/Slavka888/ono-tebe-nado.git
+https://github.com/Slavka888/ono-tebe-nado-ad.git
